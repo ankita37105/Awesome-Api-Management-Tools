@@ -247,9 +247,7 @@ This is starting point for you to know the options available to write your class
 - [fabio](https://github.com/fabiolb/fabio): A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by [consul](https://www.consul.io) by eBay.
 - [Traefik](https://github.com/containous/traefik): Træfik (pronounced like traffic) is a modern HTTP reverse proxy and load balancer written in Go.
 - [Oathkeeper](https://github.com/ory/oathkeeper): OIdentity & Access Proxy (IAP) that authorizes HTTP requests based on sets of rules. Integrates with ORY Hydra.
--   [APIClaw](https://apiclaw.biz/): Flat-rate OpenAI-compatible AI API gateway with free 50-request trial; one endpoint for Claude, OpenAI, Kimi, Qwen, DeepSeek, GLM.
-
-  
+-   [APIClaw](https://apiclaw.biz/): Flat-rate OpenAI-compatible AI API gateway with free 50-request trial; one endpoint for Claude, OpenAI, Kimi, Qwen, DeepSeek, GLM. 
 
 
 ## API Security
